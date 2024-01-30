@@ -7,6 +7,8 @@ copyright:           "2022 Alex Dixon"
 
 description:         Using monads to parse structured text.
 
+language: GHC2021
+
 dependencies:
 - base >= 4.7 && < 5
 
